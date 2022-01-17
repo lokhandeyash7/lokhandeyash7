@@ -44,7 +44,8 @@
 
 ---
 ![yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokhandeyash7&show_icons=true&theme=synthwave)
-
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokhandeyash7&exclude_repo=github-readme-stats,portfolio&langs_count=8)](https://github.com/lokhandeyash7/github-readme-stats)
 
 
 
