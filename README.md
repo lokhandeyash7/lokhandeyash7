@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hqdefault.jpg" width="450" length="500" title="hover text">
+  <img src="image.jpg" width="250"  title="hover text">
 
 ### Hi there, I'm Yash 👋
          
