@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="hqdefault.jpg" width="450" length="500" title="hover text">
+
 ### Hi there, I'm Yash 👋
+         
+
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lokhandeyash07?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/lokhandeyash07?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
