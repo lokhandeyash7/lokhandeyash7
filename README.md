@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.jpg" width="250"  title="hover text">
+  <img src="download.jfif" width="500"  title="hover text">
 
 ### Hi there, I'm Yash 👋
          
