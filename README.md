@@ -1,6 +1,6 @@
 ### Hi there, I'm Yash 👋
         
-  <img src="image1.jpg" width="500"  height="250" align="right" title="hover text">
+  <img src="image1.jpg" width="350"  height="250" align="right" title="hover text">
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lokhandeyash07?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/lokhandeyash07?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
