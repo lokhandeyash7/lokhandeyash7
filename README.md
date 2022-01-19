@@ -2,7 +2,7 @@
         
   <img src="image1.jpg" width="350"  height="250" align="right" title="hover text">
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=https://yashlokhandecv.post.pro/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yashlokhandecv.post.pro/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lokhandeyash07?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/lokhandeyash07?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## About me ✨👨‍💻!!
@@ -56,8 +56,7 @@
 
 
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[website]: https://yashlokhandecv.post.pro/
 [twitter]: https://twitter.com/lokhandeyash07
 [instagram]: https://www.instagram.com/lokhandeyash_07/
 [linkedin]: https://www.linkedin.com/in/yash-lokhande-93a79520b/
