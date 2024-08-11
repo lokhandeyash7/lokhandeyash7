@@ -8,7 +8,7 @@
 ## About me ✨👨‍💻!!
 
 - 🔭 I am just a curious programmer and developer
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to give my best
 - 🥅 Goal:-Explore as much as possible
 - ⚡ Fun fact: I love to play cricket
